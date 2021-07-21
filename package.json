@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepate": "https://likeanewstar.github.io/habit-tracker/",
+  "homepage": "https://likeanewstar.github.io/habit-tracker/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@testing-library/jest-dom": "^5.11.4",
